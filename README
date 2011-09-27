@@ -5,3 +5,19 @@ This repository is for experimental code related to various Natural Language
 Processing options.  We hope to provide some examples for each other and 
 make this a bit of a playground to toss out prototypes and proof of concept
 code to assess it's relevancy for projects here at the library.
+
+Git Flow
+========
+
+As with our other projects plesae use the branching structure best practices
+agreed on and enforced with Git Flow.
+
+Playspace
+=========
+
+Since this is all mostly prototype code right now please put any personal code
+you're playing around with in
+
+::  EULnlp/playspace/<yourname>
+
+Where <yourname> is ... well, you get it.
